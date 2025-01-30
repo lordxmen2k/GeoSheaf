@@ -15,6 +15,7 @@ This repository utilizes publicly available datasets from major geological and g
 - **Dataset:** Netherlands Offshore F3 3D Seismic (F3 Demo 2020)
 - **Source:** SEG Open Data Repository
 - **Download Link:** [F3 Demo 2020](https://terranubis.com/datainfo/F3-Demo-2020)
+- **Create Folder Inside Project:** F3_Demo_2020
 - **Processing Steps:**
   - Extract SEG-Y seismic reflection amplitudes.
   - Convert reflection amplitudes into sheaf node values.
@@ -24,6 +25,7 @@ This repository utilizes publicly available datasets from major geological and g
 - **Dataset:** Kansas Geological Survey Well Logs (WWC5 Wells)
 - **Source:** Kansas Geological Survey (KGS)
 - **Download Link:** [WWC5 Wells](https://www.kgs.ku.edu/Magellan/WaterWell/index.html)
+- **Create Folder Inside Project:** wwc5_wells
 - **Processing Steps:**
   - Extract porosity, permeability, and lithology data.
   - Use these attributes as observed data values in well log nodes.
